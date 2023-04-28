@@ -13,7 +13,6 @@ from tensorflow import keras
 from scapy.layers.inet import IP, TCP, UDP, Ether
 from sklearn.preprocessing import StandardScaler
 import base64
-import dpkt
 
 
 class MainWindow(QtWidgets.QMainWindow):
@@ -150,8 +149,6 @@ class MainWindow(QtWidgets.QMainWindow):
         msg_box.setStandardButtons(QtWidgets.QMessageBox.Ok)
         msg_box.exec_()
         
-    import dpkt
-
    
     def add_attack_packet(self):
         row = [str(datetime.now()), "192.168.0.1", "192.168.0.2", "TCP", "1234", "5678", "100", "Attack packet"]
