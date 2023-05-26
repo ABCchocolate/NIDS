@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 2023-05-24 14:51:36,686 Interface started!
 2023-05-24 14:52:21,581 Error starting packet capture: 'utf-8' codec can't decode byte 0xc8 in position 27: invalid continuation byte
 2023-05-24 15:55:38,729 Interface started!
 2023-05-24 16:01:58,698 Interface started!
+=======
+2023-05-24 14:51:36,686 Interface started!
+2023-05-24 14:52:21,581 Error starting packet capture: 'utf-8' codec can't decode byte 0xc8 in position 27: invalid continuation byte
+2023-05-24 15:55:38,729 Interface started!
+2023-05-24 16:01:58,698 Interface started!
+>>>>>>> 1d198582a6faef561760164b2bdffc6889e445fa
