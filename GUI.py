@@ -343,7 +343,7 @@ class UI_MainWindow(object):
     current_row = 0
     
     def load_weights(self):
-        weights_path = "weight\cnn_model.h5"  
+        weights_path = "weight/final_model.h5"  
         self.model = load_model(weights_path)
         self.model.summary()
         
