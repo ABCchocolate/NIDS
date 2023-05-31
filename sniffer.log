@@ -3,3 +3,154 @@
 2023-05-24 15:55:38,729 Interface started!
 2023-05-24 16:01:58,698 Interface started!
 2023-05-26 11:50:37,994 Interface started!
+2023-05-26 22:34:52,168 Interface started!
+2023-05-26 22:48:13,146 Interface started!
+2023-05-26 22:48:52,182 Interface started!
+2023-05-26 22:54:17,820 Interface started!
+2023-05-26 22:54:18,160 Loaded backend qtagg version 5.15.9.
+2023-05-26 22:55:03,182 Interface started!
+2023-05-26 22:55:03,483 Loaded backend qtagg version 5.15.9.
+2023-05-26 22:55:32,232 Interface started!
+2023-05-26 22:56:50,671 Interface started!
+2023-05-26 22:57:16,734 Interface started!
+2023-05-26 22:58:50,447 Interface started!
+2023-05-26 22:59:43,315 Interface started!
+2023-05-26 23:00:22,539 Interface started!
+2023-05-26 23:03:15,953 Interface started!
+2023-05-26 23:04:07,717 Interface started!
+2023-05-31 00:44:16,450 Interface started!
+2023-05-31 00:47:02,183 Interface started!
+2023-05-31 00:48:05,022 Interface started!
+2023-05-31 00:55:19,265 Interface started!
+2023-05-31 00:59:54,622 Interface started!
+2023-05-31 00:59:54,920 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:04:01,206 Interface started!
+2023-05-31 01:05:08,724 Interface started!
+2023-05-31 01:05:09,021 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:05:27,725 Interface started!
+2023-05-31 01:05:28,040 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:08:28,392 Interface started!
+2023-05-31 01:12:35,532 Interface started!
+2023-05-31 01:12:35,545 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:12:49,276 Interface started!
+2023-05-31 01:15:40,857 Interface started!
+2023-05-31 01:15:41,163 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:16:03,106 Interface started!
+2023-05-31 01:16:03,424 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:16:57,067 Interface started!
+2023-05-31 01:18:36,095 Interface started!
+2023-05-31 01:22:16,222 Interface started!
+2023-05-31 01:24:39,191 Interface started!
+2023-05-31 01:26:11,294 Interface started!
+2023-05-31 01:28:20,473 Interface started!
+2023-05-31 01:36:41,060 Interface started!
+2023-05-31 01:36:41,110 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:36:59,120 Interface started!
+2023-05-31 01:36:59,178 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:37:18,955 Interface started!
+2023-05-31 01:37:19,068 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:38:29,681 Interface started!
+2023-05-31 01:38:29,792 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:48:07,006 Interface started!
+2023-05-31 01:48:07,331 Loaded backend qtagg version 5.15.9.
+2023-05-31 01:48:37,980 Interface started!
+2023-05-31 01:51:39,382 Interface started!
+2023-05-31 01:57:37,582 Interface started!
+2023-05-31 02:01:01,772 Interface started!
+2023-05-31 02:01:02,100 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:02:12,915 Interface started!
+2023-05-31 02:02:13,205 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:03:06,381 Interface started!
+2023-05-31 02:03:06,669 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:03:23,604 Interface started!
+2023-05-31 02:03:23,904 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:06:20,256 Interface started!
+2023-05-31 02:08:24,246 Interface started!
+2023-05-31 02:09:23,788 Interface started!
+2023-05-31 02:11:38,041 Interface started!
+2023-05-31 02:13:38,583 Interface started!
+2023-05-31 02:15:36,994 Interface started!
+2023-05-31 02:15:37,294 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:21:47,398 Interface started!
+2023-05-31 02:21:47,409 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:23:17,063 Interface started!
+2023-05-31 02:23:17,076 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:25:10,015 Interface started!
+2023-05-31 02:25:10,028 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:25:28,456 Interface started!
+2023-05-31 02:25:28,752 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:25:38,539 Error starting packet capture: UI_MainWindow.add_attacker() takes 1 positional argument but 2 were given
+2023-05-31 02:27:45,943 Interface started!
+2023-05-31 02:27:48,666 Error starting packet capture: UI_MainWindow.add_attacker() takes 1 positional argument but 2 were given
+2023-05-31 02:28:12,678 Interface started!
+2023-05-31 02:28:15,733 Error starting packet capture: UI_MainWindow.add_attacker() takes 1 positional argument but 2 were given
+2023-05-31 02:29:27,836 Interface started!
+2023-05-31 02:29:31,002 Error starting packet capture: UI_MainWindow.add_attacker() takes 1 positional argument but 2 were given
+2023-05-31 02:31:09,830 Interface started!
+2023-05-31 02:31:13,084 Error starting packet capture: UI_MainWindow.add_attacker() takes 1 positional argument but 2 were given
+2023-05-31 02:33:15,485 Interface started!
+2023-05-31 02:33:25,726 Error starting packet capture: UI_MainWindow.add_attacker() takes 1 positional argument but 2 were given
+2023-05-31 02:34:01,089 Interface started!
+2023-05-31 02:34:01,100 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:34:17,501 Interface started!
+2023-05-31 02:34:23,773 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 02:36:08,832 Interface started!
+2023-05-31 02:36:09,236 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:37:10,844 Interface started!
+2023-05-31 02:37:14,770 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 02:46:05,115 Interface started!
+2023-05-31 02:46:05,127 Loaded backend qtagg version 5.15.9.
+2023-05-31 02:46:46,703 Interface started!
+2023-05-31 02:47:09,755 Interface started!
+2023-05-31 02:47:39,369 Interface started!
+2023-05-31 02:49:37,866 Interface started!
+2023-05-31 02:49:55,529 Interface started!
+2023-05-31 02:50:20,554 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 02:55:49,871 Interface started!
+2023-05-31 02:56:15,535 Interface started!
+2023-05-31 02:56:24,159 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 02:57:38,795 Interface started!
+2023-05-31 02:57:54,431 Interface started!
+2023-05-31 02:59:07,424 Interface started!
+2023-05-31 03:00:47,315 Interface started!
+2023-05-31 03:00:57,388 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 03:05:01,131 Interface started!
+2023-05-31 03:05:10,568 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 03:06:22,882 Interface started!
+2023-05-31 03:06:28,769 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 09:43:11,788 Interface started!
+2023-05-31 09:43:22,142 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 09:46:42,904 Interface started!
+2023-05-31 09:46:49,175 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 09:47:44,574 Interface started!
+2023-05-31 09:47:49,225 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 09:48:47,203 Interface started!
+2023-05-31 09:48:50,387 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 09:49:14,132 Interface started!
+2023-05-31 09:49:18,601 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 09:53:06,698 Interface started!
+2023-05-31 09:53:10,319 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 09:58:35,932 Interface started!
+2023-05-31 09:58:39,488 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 10:02:52,485 Interface started!
+2023-05-31 10:02:55,893 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 10:07:23,386 Interface started!
+2023-05-31 10:07:23,401 Loaded backend qtagg version 5.15.9.
+2023-05-31 10:08:01,970 Interface started!
+2023-05-31 10:08:04,929 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 10:25:49,464 Interface started!
+2023-05-31 10:26:54,426 Interface started!
+2023-05-31 10:28:20,815 Interface started!
+2023-05-31 10:28:24,313 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 10:30:32,142 Interface started!
+2023-05-31 10:32:55,473 Interface started!
+2023-05-31 10:33:00,083 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 10:34:46,911 Interface started!
+2023-05-31 10:34:52,206 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 10:35:45,065 Interface started!
+2023-05-31 10:35:57,405 Interface started!
+2023-05-31 10:36:02,061 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 10:43:58,107 Interface started!
+2023-05-31 10:44:01,818 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
+2023-05-31 10:45:03,027 Interface started!
+2023-05-31 10:45:07,368 Error starting packet capture: 'UI_MainWindow' object has no attribute 'add_attacker'
